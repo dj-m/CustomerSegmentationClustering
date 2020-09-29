@@ -1,7 +1,7 @@
 Customer Segmentation via Clustering
 ==============================
 
- implement the K-Means clustering algorithm, find the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualize the clusters with Principal Components Analysis (PCA).
+The gola is to implement the K-Means clustering algorithm, find the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualize the clusters with Principal Components Analysis (PCA).
 
 Project Organization
 ------------
